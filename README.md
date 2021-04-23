@@ -1,3 +1,6 @@
+[![Maintenance](https://img.shields.io/badge/Maintained-yes-green.svg)]() [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) ![Contributions welcome](https://img.shields.io/badge/Contributions-welcome-brightgreen.svg)
+
+
 ### Disclaimer
 
 This tool was made for educational purposes only. I urge anyone who would use this tool to only use it on targets he/she is authorized to access as a remote control tool. I hold no responsibility if one used it for any unlawful activity.
